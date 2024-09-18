@@ -1,2 +1,2 @@
 # big-data-project
-This isthe big data end to end project.
+This is the big data end to end project.
